@@ -35,8 +35,7 @@ export default async function(eleventyConfig) {
 			language: "en",
 			title: "The Moon Prince's Dog",
 			subtitle: "A sci-fi light web novel about a girl who is a prince and a girl who is her dogfighter.",
-			base: "http://localhost/",
-			// base: "https://moonprince.net/",
+			base: "https://moonprince.net/",
 			author: {
 				name: "cowboysneepdip & ludowoods",
 				email: "", // Optional
