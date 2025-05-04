@@ -1,5 +1,5 @@
 ---
-title: Chapter 01 02
+title: Chapter 02
 tags: dogfighter_arc
 ---
 <p>Perhaps it would have been kinder if she had been shot like her squadmates. Perhaps it would have been kinder to be ripped apart in the vacuum of space, or to be vaporized by the heat of a beam cannon. </p>
