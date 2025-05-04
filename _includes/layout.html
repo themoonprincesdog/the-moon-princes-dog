@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% include "layout_head.html" %}
+</head>
+<body>
+    <header>
+        {% include "layout_header.html" %}
+    </header>
+    <main>
+        <div class="main_container">
+            <h1 class="main_title">{{ title }}</h1>
+            <hr class="chapter_title_divider">
+            <div class="main_content">{{ content }}</div>
+        </div>
+    </main>
+    <div class="bottom_spacer"></div>
+</body>
+</html>

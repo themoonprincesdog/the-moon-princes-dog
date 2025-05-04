@@ -1,0 +1,3 @@
+{% assign previousPost = collections.chapter | getPreviousCollectionItem %}
+{% assign nextPost = collections.chapter | getNextCollectionItem %}
+{% if previousPost %}<a class="chapter_nav_btn prev_btn" href="{{ previousPost.url }}">Previous: {{ previousPost.data.title }}</a>{% endif %}{% if nextPost %}<a class="chapter_nav_btn next_btn" href="{{ nextPost.url }}">Next: {{ nextPost.data.title }}</a>{% endif %}
